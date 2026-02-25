@@ -39,4 +39,31 @@ Atividade do dia 25-02 - Manipulação de Strings e Arrays no JavaScript
 - Retorna o tipo da variável informada.
 
 # Arrays
+- armazenam listas de valores.
+
+# .push()
+- Adiciona um elemento ao final do array.
+
+# .splice()
+- Remove ou adiciona elementos em posições específicas.
+
+# .forEach()
+- Percorre todos os elementos do array.
+
+# .map()
+- Percorre o array e retorna um novo array transformado.
+
+# .filter()
+- Retorna um novo array com elementos que atendem a uma condição.
+
+# .find()
+- Retorna o primeiro elemento que atende à condição.
+
+# .some()
+- Verifica se pelo menos um elemento atende à condição.
+
+# .every()
+- Verifica se todos os elementos atendem à condição.
+
+
 
